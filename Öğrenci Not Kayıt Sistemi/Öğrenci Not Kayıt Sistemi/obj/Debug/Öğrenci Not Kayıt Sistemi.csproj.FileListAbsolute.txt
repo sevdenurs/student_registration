@@ -1,0 +1,12 @@
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\bin\Debug\Öğrenci Not Kayıt Sistemi.exe.config
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\bin\Debug\Öğrenci Not Kayıt Sistemi.exe
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\bin\Debug\Öğrenci Not Kayıt Sistemi.pdb
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci Not Kayıt Sistemi.csproj.AssemblyReference.cache
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci_Not_Kayıt_Sistemi.FrmOgrenciDetay.resources
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci_Not_Kayıt_Sistemi.FrmOgretmenDetay.resources
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci_Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci Not Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci Not Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci Not Kayıt Sistemi.exe
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci Not Kayıt Sistemi.pdb
+C:\Users\nurta\source\repos\Öğrenci Not Kayıt Sistemi\Öğrenci Not Kayıt Sistemi\obj\Debug\Öğrenci_Not_Kayıt_Sistemi.FrmGiris.resources
